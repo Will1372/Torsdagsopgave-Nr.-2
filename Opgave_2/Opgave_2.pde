@@ -24,6 +24,9 @@ boolean sadMood = false;
 void setup(){
 println("Hi, my name is " + myName);
 println("I am " +myAge +" years old");
-if(sadMood = true); //Her drillede den lidt, da jeg ikke kunne få den til at forstå, at booleanens værdi var hhv. true eller false
+if(sadMood == true); //Her drillede den lidt, da jeg ikke kunne få den til at forstå, at booleanens værdi var hhv. true eller false
 println("I don't clap my hands");
+} else {
+println("I clap my hands");
+
 }
